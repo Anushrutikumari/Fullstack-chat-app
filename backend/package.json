@@ -1,15 +1,14 @@
-
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for fintech platform",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["fintech", "backend", "api", "node"],
+  "author": "Your Name",
   "type": "module",
   "license": "ISC",
   "dependencies": {
@@ -31,4 +30,3 @@
     "node": "20.x"
   }
 }
-
